@@ -1,6 +1,8 @@
 # Company-Database Sql/MySql/PopSql
+I created this database after finishing a youtube course! 
+
 First we have to install Mysql and set a username and a password
-Then we open cmd for MySql cmd line to create our server. After we create our database by typing create database company;(company is the name that we want to give in our database)
+Then we open MySql cmd line to create our server. After we create our database by typing create database company;(company is the name that we want to give in our database)
 We install PopSql so we can visualize our database
 Setting type Mysql
 Hostname Localhost
